@@ -1,0 +1,22 @@
+{
+  "name": "tcsproject",
+  "version": "1.0.0",
+  "description": "Projecttcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basavaraj321/tcsdemo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Basavarj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Basavaraj321/tcsdemo/issues"
+  },
+  "homepage": "https://github.com/Basavaraj321/tcsdemo#readme"
+}
